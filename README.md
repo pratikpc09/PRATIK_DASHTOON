@@ -2,6 +2,8 @@
 
 IMPLEMENTED A VGG NETWORKS FOR THE STYLE TRANSFER ALGORITHM 
 
+used dataset-  "best-artworks-of-all-time"  from kaggle
+
 ALSO REFFRED ARTICLES 
 
 Neural Style Transfer: A Critical Review Akhil Singh1, Vaibhav Jaiswal1, Gaurav Joshi1, Adith Sanjeeve1, Dr. Shilpa Gite2,3, Dr. Ketan
